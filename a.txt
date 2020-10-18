@@ -2,4 +2,8 @@ aa
 abcd
 x1
 x2
+<<<<<<< HEAD
 master
+=======
+dev
+>>>>>>> dev
